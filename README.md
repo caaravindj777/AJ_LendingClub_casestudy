@@ -1,2 +1,6 @@
-# AJ_LendingClub_casestudy
-A project aimed at finding which types of applicants are most likely to default and thereby help investors minimize their risk during lending
+LENDING CLUB CASE STUDY 
+An analysis to find out which factors of applicants are most likely to cause a loan default
+
+CONTAINS A JUPYTER NOTEBOOK AS WELL AS PDF
+
+- BY CA ARAVIND JAYARAMAN
